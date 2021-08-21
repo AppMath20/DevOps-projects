@@ -1,3 +1,3 @@
-This repository contains analytics and devops projects
+This repository contains devops projects
 
 
